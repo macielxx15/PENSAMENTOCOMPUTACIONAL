@@ -1,0 +1,44 @@
+body{
+
+   background: pink;
+
+   color: darkblue;
+
+   font-size: 30px;
+
+}
+
+
+#imagemprincipal {
+   width: 600;
+   height: 200;
+   border: 15px solid white;
+   padding: 20px;
+   margin: 20px;
+}
+
+
+
+
+
+
+
+header{
+
+   background: darkred;
+
+}
+
+
+
+
+
+
+
+h3{
+
+   text-align: center;
+
+   color:black;
+
+   font-size: 50px;
