@@ -1,2 +1,1 @@
 # PENSAMENTOCOMPUTACIONAL
-pensamento computacional 
